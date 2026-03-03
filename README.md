@@ -1,6 +1,6 @@
 # 🏋️‍♂️ LDL Fitness | Página Inicial - O Seu Shape Começa Aqui
 
-![Status do Projeto](https://img.shields.io/badge/Status-Em-Andamento-success)
+![Status do Projeto](https://img.shields.io/badge/Status-Em%20andamento-blue)
 ![Linguagens](https://img.shields.io/badge/Tecnologias-HTML5%20|%20CSS3-yellow)
 
 ## 📖 Sobre o Projeto
