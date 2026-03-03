@@ -30,7 +30,6 @@ O projeto obedece à seguinte paleta de variáveis CSS:
 * `--branco: #ffffff;` (Textos Brilhantes)
 
 ## 📸 Demonstração
-> *(Dica: Adicione aqui uma imagem da sua página inicial carregada para chamar a atenção no GitHub)*
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/275a270d-0bf1-4713-846b-290163fc77c3" />
 
 * `[Screenshot da Landing Page da LDL Fitness]`
