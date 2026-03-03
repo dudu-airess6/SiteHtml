@@ -37,10 +37,9 @@ O projeto obedece à seguinte paleta de variáveis CSS:
 ## ⚙️ Como visualizar o projeto
 Para rodar este projeto em sua máquina local:
 
- 1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/ldl-fitness-landing-page.git](https://github.com/SEU_USUARIO/ldl-fitness-landing-page.git)
+1.Clone o repositório:
+   git clone (https://github.com/dudu-airess6/SiteHtml/tree/feature/dev)
 
- 2. Abra a pasta do projeto e dê um duplo clique no arquivo index.html ou pressione f5.
+2. Abra a pasta do projeto e dê um duplo clique no arquivo index.html ou pressione f5.
 
- 3. O projeto abrirá no seu navegador padrão sem a necessidade de rodar um servidor local ou pacotes (como npm).
+3. O projeto abrirá no seu navegador padrão sem a necessidade de rodar um servidor local ou pacotes (como npm).
