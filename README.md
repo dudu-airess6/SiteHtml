@@ -4,7 +4,7 @@
 ![Linguagens](https://img.shields.io/badge/Tecnologias-HTML5%20|%20CSS3-yellow)
 
 ## 📖 Sobre o Projeto
-Esta é a **Landing Page (Página Inicial)** da **LDL Fitness**, um centro de treinamento de alta performance. O objetivo desta página é apresentar a estrutura da academia, a história da marca, os serviços oferecidos (Protocolos MASS e CUT) e o corpo técnico (Coach), além de fornecer os canais de contato. 
+Esta é a **Página** da **LDL Fitness**, um centro de treinamento de alta performance. O objetivo desta página é apresentar a estrutura da academia, a história da marca, os serviços oferecidos (Protocolos MASS e CUT) e o corpo técnico (Coach), além de fornecer os canais de contato. 
 
 O design utiliza um tema escuro (Dark Mode) em tons de preto e cinza-escuro, contrastado com elementos em amarelo (`#fce803`) para criar uma atmosfera intensa, sofisticada e alinhada ao universo de "treino raiz" da musculação.
 
