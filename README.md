@@ -1,4 +1,4 @@
-# 🏋️‍♂️ LDL Fitness | Landing Page - O Seu Shape Começa Aqui
+# 🏋️‍♂️ LDL Fitness | Página Inicial - O Seu Shape Começa Aqui
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Finalizado-success)
 ![Linguagens](https://img.shields.io/badge/Tecnologias-HTML5%20|%20CSS3-yellow)
