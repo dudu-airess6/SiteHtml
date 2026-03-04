@@ -32,7 +32,7 @@ O projeto obedece à seguinte paleta de variáveis CSS:
 ## 📸 Demonstração
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/275a270d-0bf1-4713-846b-290163fc77c3" />
 
-* `[Screenshot da Landing Page da LDL Fitness]`
+* `[Print da Página Inicial da LDL Fitness]`
 
 ## ⚙️ Como visualizar o projeto
 Para rodar este projeto em sua máquina local:
