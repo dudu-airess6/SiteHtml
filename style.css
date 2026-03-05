@@ -156,14 +156,8 @@ p {
     text-align: left; 
 }
 
-/* Regra adicionada novamente para garantir a inversão de layout */
-.flex-container.row-reverse {
-    flex-direction: row-reverse;
-}
-
 .flex-content {
     flex: 1;
-    text-align: center;
 }
 
 .flex-content p {
@@ -187,7 +181,7 @@ p {
     object-fit: cover; 
 }
 
-.banner-cut {
+.banner-container {
     margin-top: 60px;
     width: 100%;
 }
